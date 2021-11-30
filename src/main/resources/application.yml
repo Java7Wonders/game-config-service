@@ -9,4 +9,4 @@ spring:
         git:
           clone-on-start: true
           default-label: main
-          uri: https://github.com/maustrauk/Pizza-Palace-Config-Service
+          uri: https://github.com/Java7Wonders/config-repo
